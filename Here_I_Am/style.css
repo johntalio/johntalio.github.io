@@ -1,0 +1,65 @@
+body {
+	background-image: url(http://static.panoramio.com/photos/large/2135165.jpg);
+	color: green;
+}
+
+main {
+}
+
+.intro {
+	padding: 5px;
+	font-size: 3em;
+	font-family: "Impact", sans-serif;
+	font-variant: small-caps;
+	border: 5px solid blue;
+	border-width: 10px;
+	width: 49%;
+	background-color: black;
+	display: inline-block;
+	margin: 0 auto;
+}
+
+.middle {
+	padding: 5px;
+	font-size: 2em;
+	border: 8px solid blue;
+	border-width: 8px;
+	width: 15%;
+	background-color: purple;
+	font-family: "Impact", sans-serif;
+}
+
+.end {
+	padding: 5px;
+	font-size: 1.5em;
+	border: 5px solid blue;
+	border-width: 5px;
+	width: 10%;
+	background-color: red;
+	font-family: "Impact", sans-serif;
+	text-align: left;
+	margin: 0 auto;
+	width: 250px;
+}
+
+#list {
+	width: 250px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+.table {
+	width: 250px;
+	margin: 0 auto;
+	text-align: left;
+}
+
+a {
+	color: yellow;
+}
+
+@media screen and (max-width: 750px) {
+	.img {
+		width: 400px;
+	}
+}

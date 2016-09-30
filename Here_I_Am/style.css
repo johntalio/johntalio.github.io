@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
 	background-image: url(http://static.panoramio.com/photos/large/2135165.jpg);
 	color: green;
 }
@@ -63,7 +62,4 @@ a {
 	.img {
 		width: 400px;
 	}
-=======
-	background-color: yellow;
->>>>>>> efd52497f297d9d1f98cf1c9a0bb0aff63f08b3d
 }
